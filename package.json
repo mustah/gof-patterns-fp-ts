@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mustah/gof-patterns-fp-ts.git",
   "author": "Must Tahir <must.tahir@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
